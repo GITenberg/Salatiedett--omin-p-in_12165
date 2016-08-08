@@ -1,0 +1,25 @@
+_repo: Salatiedett--omin-p-in_12165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ervast, Pekka
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '4245'
+    url: http://www.gutenberg.org/2009/agents/4245
+    wikipedia: http://fi.wikipedia.org/wiki/Pekka_Ervast
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12165'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Occultism'
+- !lcc 'BF'
+- GITenberg
+title: Salatiedettä omin päin
+url: http://www.gutenberg.org/ebooks/12165
